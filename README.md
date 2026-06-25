@@ -1,11 +1,13 @@
 ### Saman Ahmad — Software Engineer (Backend & Systems)
 
-C++ · Java · JavaScript · Python · SQL · RPGLE
+C++ · Java · JavaScript · Python · PHP · SQL · RPGLE
 
-I build reliable, observable services and like the low level: I went through
-assembly, Windows internals, and reverse engineering and bring that
-performance-and-correctness mindset to backend and systems work.
+My route here wasn't a straight line. I started as a scientific data analyst
+(MSc, computer-aided drug design) who programmed as a hobby, and that hobby kept
+growing until it became my career in software engineering.
 
-Background in scientific data analytics with computational science (MSc, computer-aided drug design).
+I came up through reverse engineering, assembly, and Windows internals into
+building C++ tools, and I bring that performance-and-correctness mindset to
+backend and systems work.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/saman-ahmad-183096207)
+🔗 [LinkedIn](https://www.linkedin.com/in/samanahmad01)
